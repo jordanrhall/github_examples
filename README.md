@@ -5,3 +5,4 @@ add three bullet points about our goals
 * go through the workflow
 * show the capabilities
 * show the simplicity
+* work in the command line
